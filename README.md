@@ -1,4 +1,4 @@
-# paprclip_task
+# EquityAnalysisApp
 
 A new Flutter project.
 
