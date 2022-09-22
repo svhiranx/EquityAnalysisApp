@@ -1,4 +1,4 @@
-# EquityAnalysisApp
+# Equity Analysis App
 
 A new Flutter project.
 
